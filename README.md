@@ -7,10 +7,10 @@ Links:
 [![ROBLOX](https://img.shields.io/badge/mazexz-ROBLOX-red)](https://www.roblox.com/users/29147988)  
 [![Discord](https://img.shields.io/badge/mazexz%231337%2C%20maz%234790-Discord-5865F2)](https://github.com/mazexz7)
 
-Languages I know:
+Programming & scripting languages I know:
 - <i>LUA:</i> Advanced
 - <i>Lazarus/Pascal:</i> Intermediate
-- <i>C#:</i> Beginner
+- <i>AHK:</i> Intermediate (Does this even count?)
 
 <h2>Current works:</h2>
 <a class="link link--flag-bound" href="https://github.com/mazexz7/Dynamic-Tunning">Dynamic Tuning</a> - A Simpsons Hit & Run framework<br>
