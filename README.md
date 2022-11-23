@@ -10,7 +10,7 @@ Links:
 Programming & scripting languages I know:
 - <i>LUA:</i> Advanced
 - <i>Lazarus/Pascal:</i> Intermediate
-- <i>AHK:</i> Intermediate (Does this even count?)
+<!-- - <i>AHK:</i> Intermediate (Does this even count?) -->
 
 <h2>Current works:</h2>
 <a class="link link--flag-bound" href="https://github.com/mazexz7/Dynamic-Tunning">Dynamic Tuning</a> - A Simpsons Hit & Run framework<br>
