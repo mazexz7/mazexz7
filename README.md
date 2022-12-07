@@ -10,6 +10,7 @@ Links:
 I know:
 - <i>LUA</i>
 - <i>Lazarus/Pascal</i>
+
 Right now studying:
 - <i>C#</i>
 - <i>(and a bit of C++)</i>
