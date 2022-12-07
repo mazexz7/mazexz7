@@ -7,10 +7,13 @@ Links:
 [![Discord](https://img.shields.io/badge/mazexz%231337%2C%20maz%234790-Discord-5865F2)](https://github.com/mazexz7)
 <!-- [![Twitter](https://img.shields.io/badge/%40mazexz__7-Twitter-blue)](https://twitter.com/mazexz_7)  -->
 
-Programming & scripting languages I know:
-- <i>LUA:</i> Advanced
-- <i>Lazarus/Pascal:</i> Intermediate
-<!-- - <i>AHK:</i> Intermediate (Does this even count?) -->
+I know:
+- <i>LUA</i>
+- <i>Lazarus/Pascal</i>
+- 
+Right now studying:
+- <i>C#</i>
+- <i>(and a bit of C++)</i>
 
 <h2>Current works:</h2>
 <a class="link link--flag-bound" href="https://github.com/mazexz7/Dynamic-Tunning">Dynamic Tuning</a> - A Simpsons Hit & Run framework<br>
