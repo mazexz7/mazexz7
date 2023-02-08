@@ -8,13 +8,13 @@ Links:
 <!-- [![Twitter](https://img.shields.io/badge/%40mazexz__7-Twitter-blue)](https://twitter.com/mazexz_7)  -->
 
 I know:
+- <i>C#</i>
 - <i>LUA</i>
 - <i>Lazarus/Pascal</i>
-
+<!--
 Right now studying:
-- <i>C#</i>
 - <i>(and a bit of C++)</i>
-
+-->
 <h2>Current works:</h2>
 <a class="link link--flag-bound" href="https://github.com/mazexz7/Dynamic-Tunning">Dynamic Tuning</a> - A Simpsons Hit & Run framework<br>
 <a class="link link--flag-bound" href="https://github.com/mazexz7/simpsons-hit-run">SHAR projects</a> - Scripts & other projects I make for Simpsons Hit & Run<br>
