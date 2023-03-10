@@ -18,5 +18,5 @@ Right now studying:
 <h2>Current works:</h2>
 <a class="link link--flag-bound" href="https://github.com/mazexz7/Dynamic-Tunning">Dynamic Tuning</a> - A Simpsons Hit & Run framework<br>
 <a class="link link--flag-bound" href="https://github.com/mazexz7/simpsons-hit-run">SHAR projects</a> - Scripts & other projects I make for Simpsons Hit & Run<br>
-<a class="link link--flag-bound" href="https://github.com/mazexz7/Roblox">ROBLOX projects</a> - Scripts I share from time to time<br>
+<!--<a class="link link--flag-bound" href="https://github.com/mazexz7/Roblox">ROBLOX projects</a> - Scripts I share from time to time<br>-->
 <a class="link link--flag-bound" href="https://github.com/mazexz7/f1-99-00-challenge/blob/main/mazexz'%20F1%20'99-'00%20Challenge%20VEH%20generator.exe">F1 '99-'00 Challenge VEH File Generator</a><br>
