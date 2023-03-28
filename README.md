@@ -3,7 +3,7 @@ I do stuff for <a class="link link--flag-bound" href="https://donutteam.com/">Do
 
 Links:  
 [![DonutTeam Profile](https://img.shields.io/badge/maz-DonutTeam-2ECC71)](https://forum.donutteam.com/@[2399])  
-[![ROBLOX](https://img.shields.io/badge/mazexz-ROBLOX-red)](https://www.roblox.com/users/29147988)  
+[![ROBLOX](https://img.shields.io/badge/mazexz-ROBLOX-red)](https://create.roblox.com/talent/creators/29147988)  
 [![Discord](https://img.shields.io/badge/mazexz%231337%2C%20maz%234790-Discord-5865F2)](https://github.com/mazexz7)
 <!-- [![Twitter](https://img.shields.io/badge/%40mazexz__7-Twitter-blue)](https://twitter.com/mazexz_7)  -->
 
