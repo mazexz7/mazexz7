@@ -1,1 +1,1 @@
-![BannerImage](https://github.com/mazexz7/profilestuff/blob/main/bannerthing.png)
+![BannerImage](https://github.com/mazexz7/profilestuff/blob/main/bannerthing2.png)
